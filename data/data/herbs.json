@@ -1,0 +1,16 @@
+[
+  {
+    "name": "アシュワガンダ",
+    "latin": "Withania somnifera",
+    "usedFor": ["ストレス緩和", "疲労回復", "睡眠サポート"],
+    "dosha": ["Vata", "Kapha"],
+    "link": "https://www.iherb.com/product/NOW-Ashwagandha-450mg/00000?rcode=YOUR_CODE"
+  },
+  {
+    "name": "ホーリーバジル（トゥルシー）",
+    "latin": "Ocimum sanctum",
+    "usedFor": ["免疫サポート", "気分の安定", "抗酸化"],
+    "dosha": ["Pitta", "Kapha"],
+    "link": "https://www.iherb.com/product/Organic-India-Tulsi-Holy-Basil-Tea/11111?rcode=YOUR_CODE"
+  }
+]
